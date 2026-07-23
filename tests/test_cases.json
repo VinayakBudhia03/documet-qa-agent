@@ -1,0 +1,6 @@
+[
+  {"question": "What is this document about?", "expected_keywords": ["overview", "summary"], "category": "general"},
+  {"question": "What is the refund policy?", "expected_keywords": ["refund", "days"], "category": "factual"},
+  {"question": "Does this document mention Mars colonization?", "expected_keywords": ["does not mention"], "category": "edge_case_no_answer"},
+  {"question": "Summarize section 2 in one sentence.", "expected_keywords": [], "category": "summarization"}
+]
